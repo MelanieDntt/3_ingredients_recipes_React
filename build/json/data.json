@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "name": "Pizza Rolls",
+        "preptime": "10 minutes",
+        "cooktime": "20 minutes",
+        "ratings": null,
+        "image": "/img/pizza-rolls.jpg",
+        "type": "snack",
+        "ingredients": ["1 tube refrigerated pizza crust", "2/3 cup Pizza sauce", "1 cup Shredded Mozzarella Cheese", "dash dried basil"],
+        "instructions": [
+            "Preheat oven to 425. Lightly grease a baking sheet. Set aside.",
+            "Unroll a package of refrigerated pizza crust onto a large cutting board.",
+            "Spread 2/3 cup of pizza sauce over the dough.",
+            "Sprinkle with 1 cup Mozzarella cheese.",
+            "Carefully roll the dough to make a log shape.",
+            "Pinch the sides and using a pizza cutter or knife, slice into 10 individual pieces.",
+            "Bake at 425 for 15-20 minutes until the cheese is melted and rolls are a light golden brown.",
+            "Remove from oven and sprinkle a dash of dried basil on top. Serve with pizza sauce for dipping."
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Cottage Cheese Pancakes",
+        "preptime": "3 to 5 minutes",
+        "cooktime": "10 to 15 minutes",
+        "ratings": null,
+        "image": "/img/cottage_cheese_pancakes.jpg",
+        "type": "meal",
+        "ingredients": ["1/2 cup old-fashioned oats", "1/2 cup cottage cheese", "2 large eggs", "1/8 teaspoon kosher salt", "Maple syrup, jam, or sliced berries, for serving"],
+        "instructions": [
+            "Place the oats, cottage cheese, eggs, and salt in a blender and process on high speed until well-combined, about 30 seconds.",
+            "Heat a large nonstick frying pan over medium heat. Working in batches, add the batter in 2-tablespoon portions, spacing them evenly apart. Cook until the pancakes are set around the edges and deep golden-brown on the bottom, 2 to 3 minutes (this batter won’t bubble up like traditional pancake batter). Gently flip the pancakes with a thin spatula and cook until the second side is golden-brown, 1 to 2 minutes more. Transfer to a plate.",
+            "Repeat cooking the remaining batter. These pancakes are best when eaten fresh off the griddle and still warm. Serve with maple syrup, honey, or jam."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mac and Cheese",
+        "preptime": "5 minutes",
+        "cooktime": "20 minutes",
+        "ratings": null,
+        "image": "/img/mac-and-cheese.jpeg",
+        "type": "meal",
+        "ingredients": ["2 1/4 cups milk, divided", "2 cups dry macaroni (about 1/2 lb.)", "1 cup shredded cheddar cheese", "3/4 tsp salt"],
+        "instructions": [
+            "Combine the dry macaroni and 2 cups of milk in a medium pot. Place a lid on top and bring it up to a boil over medium/high heat while occasionally stirring.",
+            "As soon as it reaches a boil, reduce the heat to low and let simmer, stirring often, until the pasta is tender (about 10 minutes). Make sure to stir often during this process to keep the pasta from clumping or sticking to the bottom of the pot. Promptly replace the lid each time you finish stirring to help hold in the steam.",
+            "Once the pasta is soft and has absorbed most of the milk, season with salt, pepper, paprika, and dijon, or the spices of your choice. If the mixture begins to look dry, add the remaining 1/4 cup of milk.",
+            "Turn the heat off and stir in the shredded cheese until melted and creamy. Serve immediately."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Crème Brûlée",
+        "preptime": "10 minutes",
+        "cooktime": "40 - 50 minutes",
+        "ratings": null,
+        "image": "/img/creme-brulee.jpg",
+        "type": "dessert",
+        "ingredients": ["½ cup vanilla ice cream (75 g)", "1 egg yolk", "1 tablespoon sugar"],
+        "instructions": [
+            "Preheat the oven to 325˚F (160˚C).",
+            "Scoop the ice cream in a microwave-safe bowl. Microwave the ice cream for 30 to 40 seconds or until completely melted. Allow to cool for 5 minutes.",
+            "Add the egg yolk into the melted ice cream and whisk well.",
+            "Pour the mixture into a ramekin. Place the ramekin in a pan. Pour hot water into the pan to come roughly halfway up the sides of the ramekin.",
+            "Bake for 40-50 minutes. The crème brûlée should be set, but still a little jiggly in the middle. Remove the ramekins from the roasting pan, allow to cool to room temperature, cover with plastic wrap and refrigerate for at least 2 hours, and up to 3 days.",
+            "Remove the crème brûlée from the refrigerator for at least 30 minutes before browning the sugar on top.",
+            "Sprinkle a tablespoon of sugar on top of each crème brûlée. Using a torch, melt the sugar to for a crispy top. If you don’t have a torch, you can broil the crème brûlée to melt the sugar. Keep an eye on it, to make sure you don’t over cook it. Allow the crème brûlée to sit for at least 5 minutes before serving.",
+            "You can also make various flavor by using different ice cream flavors. If you are using flavored ice cream, use 1 egg instead of 1 yolk."
+        ]
+    }
+]
